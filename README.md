@@ -14,7 +14,7 @@ To be updated.
 
 ### FYI
 We, McGill University students as team of 2, started this summer project due to high intersests in tradings and programming.
-We will be starting from the scratch as we do not have much knowledge to implements our desired codes, we will be self-educated and implements based on that.
+We will be starting from the scratch as we do not have much knowledge to implement our desired codes, we will be self-educated and implements based on that.
 Due to lack of time and hands, we would be focusing on the basic backend that controls and guaranties the accuracy of calculation and correct implementation
 of indicators (MACD, RSI, Bollinger Bands) to provide reliable expectations.
 In addition to this, we also aim to have well structured DB that can possibly manage the data with push/pull.
